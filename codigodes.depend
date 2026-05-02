@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1777681170 source:c:\users\lucho\documents\facu\topicos\unidad1\codigodes\main.c
+	<stdio.h>
+	<ctype.h>
+
